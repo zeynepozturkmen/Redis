@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Redis.Library", "Redis.Libr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis.ConsoleApp", "Redis.ConsoleApp\Redis.ConsoleApp.csproj", "{79AA623D-8BF2-4755-80D3-B6F11B89AA2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis.WebApi", "Redis.WebApi\Redis.WebApi.csproj", "{EC0B4130-F048-4C8A-B3E0-D5EDD2AF784A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{79AA623D-8BF2-4755-80D3-B6F11B89AA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79AA623D-8BF2-4755-80D3-B6F11B89AA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79AA623D-8BF2-4755-80D3-B6F11B89AA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0B4130-F048-4C8A-B3E0-D5EDD2AF784A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0B4130-F048-4C8A-B3E0-D5EDD2AF784A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0B4130-F048-4C8A-B3E0-D5EDD2AF784A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0B4130-F048-4C8A-B3E0-D5EDD2AF784A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
